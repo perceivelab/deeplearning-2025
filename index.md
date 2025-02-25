@@ -18,7 +18,6 @@ During the course, Discord will be used as a space to discuss all technical aspe
 - 24/02/2025 - Classes will start on 05/03/2025.
 
 ---
-
 # EXAM
 
 The exam consists of two phases:
@@ -37,8 +36,8 @@ The exam consists of two phases:
 The project can be of two types:
 - **Type 1**: Development of a method agreed upon with the course instructors.
 - **Type 2**: Kaggle Challenge on Domain Shift.
----
 
+---
 # GRADING
 
 ### Evaluation with project 
