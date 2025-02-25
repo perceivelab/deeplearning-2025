@@ -1,7 +1,7 @@
-name: Machine Learning (M-Z) Course
+name: Deep Learning Course
 markdown: kramdown
 
-baseurl: "/ml-mz-2025"
+baseurl: "/deeplearning-2025"
 url: "https://perceivelab.github.io"
 theme: jekyll-theme-cayman
 

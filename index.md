@@ -2,78 +2,58 @@
 layout: default
 ---
 
-# INFO
+# CLASS SCHEDULE
 
-**Prerequisiti**: Conoscenza preliminare di programmazione e i fondamenti di algebra lineare e analisi matematica.
-
-# ORARIO LEZIONI
-
-| Data e aula            |
+| Date and Room        |
 | :----------------: |
-| Martedì 08-11, Aula Oliveri |
-| Giovedì 14-17, D31 |
+| Wednesday 17-20, D22 |
+| Friday   11-13, D31 |
 
 ---
 # FORUM 
 {: #tag}
-Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/2nmkEMKbDw).
+During the course, Discord will be used as a space to discuss all technical aspects and **for announcements**. Enrollment in the server through the following [link](https://discord.gg/2nmkEMKbDw) is highly recommended.
 
-# AVVISI
-- 24/02/2025 - Le lezioni inizieranno giorno 06/03/2025.
-
----
-
-# ESAME
-
-L'esame consiste in due fasi:
-
-- **Progetto individuale** su tematiche assegnate dai docenti, da svolgere a casa.
-- **Esame orale**, che include la discussione del progetto e domande di teoria.
-
-Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e la discussione avverrà il giorno successivo, contestualmente all'esame orale.
-
-### Appelli ufficiali 2025
-- **18/06/2025**
-- **11/07/2025**
-- **03/09/2025**
-- **25/09/2025**
+# ANNOUNCEMENTS
+- 24/02/2025 - Classes will start on 05/03/2025.
 
 ---
 
-# PROVE IN ITINERE
+# EXAM
 
-Gli studenti frequentanti possono accedere a una modalità d'esame alternativa, basata su prove intermedie. Le componenti di questa modalità sono:
+The exam consists of two phases:
 
-### Prove intermedie di teoria
-- **24/04/2025** – Esame scritto sugli argomenti trattati fino ai classificatori.
-- **13/06/2025** – Colloquio orale sugli argomenti dal clustering alle CNN, con discussione degli homework.
+- **Group project (two to three people)** on topics assigned by the instructors, to be completed at home.
+- **Theoretical exam**, which includes theoretical questions.
 
-### Homework
-Durante il corso verranno assegnati **tre homework**. Le date di assegnazione e consegna sono disponibili nella relativa sezione al [link](./homework.md).
-
-### Consegna esercitazioni
-Durante il corso verranno svolte diverse esercitazioni, la cui consegna è obbligatoria entro **due giorni** dalla lezione corrispondente. La consegna **completa** di tutte le esercitazioni è requisito necessario per accedere alla modalità d'esame tramite prove in itinere.
-
----
-
-# VALUTAZIONE
-
-### Modalità standard (esame finale)
-- **Progetto**: fino a **15 punti**
-- **Esame orale**: fino a **15 punti**
-
-### Modalità prove in itinere
-- **Prova teorica**: fino a **15 punti**
-- **Homework**: fino a **15 punti**
-
+### Official Exam Dates 2025
+- **01/07/2025**
+- **24/07/2025**
+- **09/09/2025**
+- **24/09/2025**
 
 ---
-# CONTATTI
+# PROJECT
+The project can be of two types:
+- **Type 1**: Development of a method agreed upon with the course instructors.
+- **Type 2**: Kaggle Challenge on Domain Shift.
+---
 
-**Ricevimento**: [Concordare via mail]
+# GRADING
+
+### Evaluation with project 
+- **Theoretical exam**: up to **15 points**
+- **Project**: up to **18 points**
+
+### Evaluation with challenge 
+- **Theoretical exam**: up to **15 points**
+- **Challenge**: up to **15 points**
+
+---
+# CONTACTS
+
+**Office hours**: [To be arranged via email]
 
 - *[Concetto Spampinato](mailto:concetto.spampinato@unict.it)*
 - *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
-- *[Alessio Masano](mailto:alessio.masano@phd.unict.it)*
-
-
+- *[Marco Finocchiaro Masano](mailto:finocchiaro.marco@phd.unict.it)*

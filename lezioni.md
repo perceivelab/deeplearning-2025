@@ -2,30 +2,28 @@
 layout: page
 ---
 
-# LEZIONI
+# LECTURES
 
-| Lezione | Argomento                               | Data                | Slides | Note | Codice |
-|---------|-----------------------------------------|----------------------|--------|--------| --------|
-| 1       | Introduzione                              | 6 marzo 2025         |        |        |      |
-| 2       | Introduzione a Python 1/2                 | 11 marzo 2025        |        |        |      |
-| 3       | Introduzione a Python 2/2                 | 13 marzo 2025        |        |        |      |
-| 4       | Feature reduction: PCA                    | 18 marzo 2025        |        |        |      |
-| 5       | Esercitazione PCA                         | 20 marzo 2025        |        |        |      |
-| 6       | Regressione lineare                       | 25 marzo 2025        |        |        |      |
-| 7       | Esercitazione regressione lineare         | 27 marzo 2025        |        |        |      |
-| 8       | Classificatori: SVM                       | 1 aprile 2025        |        |        |      |
-| 9       | Esercitazione classificatori              | 3 aprile 2025        |        |        |      |
-| 10      | Classificatori: kNN, decision tree        | 8 aprile 2025        |        |        |      |
-| 11      | Esercitazione classificatori              | 10 aprile 2025       |        |        |      |
-| 12      | Classificatori: regolarizzazione          | 22 aprile 2025       |        |        |      |
-| 13      | Esercitazione classificatori complessiva  | 24 aprile 2025       |        |        |      |
-| 14      | Clustering                                | 29 aprile 2025       |        |        |      |
-| 15      | Esercitazione clustering                  | 6 maggio 2025        |        |        |      |
-| 16      | Ensemble methods                          | 13 maggio 2025       |        |        |      |
-| 17      | Esercitazione ensemble methods            | 15 maggio 2025       |        |        |      |
-| 18      | Reti neurali                              | 20 maggio 2025       |        |        |      |
-| 19      | Reti neurali                              | 22 maggio 2025       |        |        |      |
-| 20      | Esercitazione reti neurali                | 27 maggio 2025       |        |        |      |
-| 21      | Esercitazione complessiva                 | 29 maggio 2025       |        |        |      |
-| 22      | CNN                                       | 3 giugno 2025        |        |        |      |
-| 23      | CNN                                       | 5 giugno 2025        |        |        |      |
+| Lecture | Topic                                             | Date                | Slides | Notes | Code |
+|---------|---------------------------------------------------|----------------------|--------|-------|------|
+| 1       | Introduction                                      | March 5, 2025       |        |       |      |
+| 2       | Introduction to Python and NumPy                  | March 7, 2025       |        |       |      |
+| 3       | Feature Reduction: PCA + Exercise                 | March 12, 2025      |        |       |      |
+| 4       | Linear Regression                                 | March 14, 2025      |        |       |      |
+| 5       | Linear Regression Exercise                        | March 19, 2025      |        |       |      |
+| 6       | Classifiers: Part 1                               | March 21, 2025      |        |       |      |
+| 7       | Classifiers: Part 2 + Regularization              | March 26, 2025      |        |       |      |
+| 8       | Classifier Exercise                               | March 28, 2025      |        |       |      |
+| 9       | Clustering                                        | April 2, 2025       |        |       |      |
+| 10      | Clustering Exercise                               | April 4, 2025       |        |       |      |
+| 11      | Ensemble Methods                                  | April 9, 2025       |        |       |      |
+| 12      | Ensemble Methods Exercise                         | April 11, 2025      |        |       |      |
+| 13      | Neural Networks                                   | April 23, 2025      |        |       |      |
+| 14      | Introduction to PyTorch                           | April 30, 2025      |        |       |      |
+| 15      | Neural Networks Exercise                          | May 7, 2025         |        |       |      |
+| 16      | CNN: Part 1                                       | May 14, 2025        |        |       |      |
+| 17      | CNN Exercise                                      | May 16, 2025        |        |       |      |
+| 18      | CNN: Part 2 + XAI                                 | May 21, 2025        |        |       |      |
+| 19      | CNN Exercise - Captum                             | May 23, 2025        |        |       |      |
+| 20      | Transformers (Foundation Models + Prompting)      | May 28, 2025        |        |       |      |
+| 21      | Transformers Exercise                             | May 30, 2025        |        |       |      |
