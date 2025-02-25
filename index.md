@@ -25,6 +25,8 @@ The exam consists of two phases:
 - **Group project (two to three people)** on topics assigned by the instructors, to be completed at home.
 - **Theoretical exam**, which includes theoretical questions.
 
+These two parts can be completed separately on different dates. The grade for each phase will be retained until the last official exam date of 2025. This means that, for instance, a student can take the theoretical exam in June and present the project in September (or vice versa), with the theoretical exam grade remaining valid. However, if the project is completed in 2026, the theoretical exam must be retaken.
+
 ### Official Exam Dates 2025
 - **01/07/2025**
 - **24/07/2025**
@@ -55,4 +57,4 @@ The project can be of two types:
 
 - *[Concetto Spampinato](mailto:concetto.spampinato@unict.it)*
 - *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
-- *[Marco Finocchiaro Masano](mailto:finocchiaro.marco@phd.unict.it)*
+- *[Marco Finocchiaro](mailto:finocchiaro.marco@phd.unict.it)*
