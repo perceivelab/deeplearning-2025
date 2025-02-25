@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+---
 # CLASS SCHEDULE
 
 | Date and Room        |
