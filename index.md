@@ -7,7 +7,7 @@ layout: default
 | Date and Room        |
 | :----------------: |
 | Wednesday 17-20, D22 |
-| Friday   11-13, D31 |
+| Friday   11-14, Polo Tecnologico, Aula A (aula magna) |
 
 ---
 # FORUM 
