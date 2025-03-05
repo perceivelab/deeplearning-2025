@@ -12,7 +12,7 @@ layout: default
 ---
 # FORUM 
 {: #tag}
-During the course, Discord will be used as a space to discuss all technical aspects and **for announcements**. Enrollment in the server through the following [link](https://discord.gg/g24vAqzYgA) is highly recommended.
+During the course, Discord will be used as a space to discuss all technical aspects and **for announcements**. Enrollment in the server through the following [link](https://discord.gg/UAVQtQGPBu) is highly recommended.
 
 # ANNOUNCEMENTS
 - 24/02/2025 - Classes will start on 05/03/2025.
