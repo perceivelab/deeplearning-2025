@@ -7,7 +7,7 @@ layout: page
 | Lecture | Topic                                             | Date                | Materials |
 |---------|---------------------------------------------------|---------------------|---------- |
 | 1       | Introduction                                      | March 5, 2025       | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYtBFAuI_TZCjtEb8kaVfKAB2Oshm1NNkU-s5BD7WFKxig?e=ttv7YD), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EfytM26ity9FtC7gsgW-MjMBmLFktm5qSQsx1DmopTustA?e=xPTb7S), [Code](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EUTLU2QSepRAuNxUg6Q9CCcBpqz-QHnEg3gTJ_eIBELcMg?e=2DLndz)  |
-| 2       | Introduction to Python and NumPy                  | March 7, 2025       |     |
+| 2       | Introduction to Python and NumPy                  | March 7, 2025       | [Notebook](https://drive.google.com/file/d/1lKO-5PazdIo0f5hG6jUPvlCcpy6QL4BB/view?usp=sharing)    |
 | 3       | Feature Reduction: PCA + Exercise                 | March 12, 2025      |     |
 | 4       | Linear Regression                                 | March 14, 2025      |     |
 | 5       | Linear Regression Exercise                        | March 19, 2025      |     |
