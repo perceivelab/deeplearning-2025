@@ -7,8 +7,8 @@ layout: page
 | Lecture | Topic                                             | Date                | Materials |
 |---------|---------------------------------------------------|---------------------|---------- |
 | 1       | Introduction                                      | March 5, 2025       | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYtBFAuI_TZCjtEb8kaVfKAB2Oshm1NNkU-s5BD7WFKxig?e=ttv7YD), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EfytM26ity9FtC7gsgW-MjMBmLFktm5qSQsx1DmopTustA?e=xPTb7S), [Code](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EUTLU2QSepRAuNxUg6Q9CCcBpqz-QHnEg3gTJ_eIBELcMg?e=2DLndz)  |
-| 2       | Introduction to Python and NumPy                  | March 7, 2025       | [Notebook](https://drive.google.com/file/d/1lKO-5PazdIo0f5hG6jUPvlCcpy6QL4BB/view?usp=sharing)    |
-| 3       | Feature Reduction: PCA + Exercise                 | March 12, 2025      |     |
+| 2       | Introduction to Python and NumPy                  | March 7, 2025       | [Code](https://drive.google.com/file/d/1lKO-5PazdIo0f5hG6jUPvlCcpy6QL4BB/view?usp=sharing)    |
+| 3       | Feature Reduction: PCA + Exercise                 | March 12, 2025      | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EceeUhhWm1hAin3HyQPpqFcBkf8Y0cYmqve4CbkOdGRdsg?e=tFanFa), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EVkrO15bhiJPnt4JEMozBu8BVOp65rjien7mDXHLywbc4Q?e=PRgO5J), [Code](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EbTIu6xaU0BKsXqBIJc4B8EBPPxM_k3XDAqVMOClMq-4mA?e=YYunmh), [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EX4D6uBm84tCrPMeYKITsGcBWLhGndzLYnf0yCI1kSOX1A?e=r2smFT)    |
 | 4       | Linear Regression                                 | March 14, 2025      |     |
 | 5       | Linear Regression Exercise                        | March 19, 2025      |     |
 | 6       | Classifiers: Part 1                               | March 21, 2025      |     |
