@@ -12,7 +12,7 @@ layout: page
 | 4       | Linear Regression                                 | March 14, 2025      | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZ7AX9UBL2tLq3S57OpW8fIBf1w2sR7YanUwaZdTfPXz5g?e=fvRdoH), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESnsJzxlNs9IpA-yqqRuC5UBB7NmmI27qRJRYT7cMjRa_A?e=96RM5H), [Notes code](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ERHuMjp2RS5Ovi9tou9Id2gBYMxteF-afr_PbR0w6J7sPg?e=aKlMLO) |
 | 5       | Linear Regression Exercise                        | March 19, 2025      | [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EemmIZ-e3jhJqsLflTI3OMgB74QC2DGu7qbsfT8g62ghng?e=vfqbIn)    |
 | 6       | Classifiers: Part 1                               | March 21, 2025      | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ETjqpZAYiDZFl8UZXdHFyzEBYCj0YB1ST_aV_4PawQEt7A?e=AFLyl3), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EYX7dY7hs7dFo6k8gjKkW-gBM36EGZUp1e5_pHBKMOa8Og?e=C0oWcr)    |
-  | 7       | Classifiers: Decision Tress                     | March 24, 2025      |     |
+  | 7       | Classifiers: Decision Trees                     | March 24, 2025      |     |
 | 8       | Classifier Exercise                               | March 28, 2025      |     |
 | 9       | Clustering                                        | March 31, 2025      |     |
 | 10      | Clustering Exercise                               | April 4, 2025       |     |
