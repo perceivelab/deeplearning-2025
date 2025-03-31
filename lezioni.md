@@ -14,16 +14,17 @@ layout: page
 | 6       | Classifiers: Part 1                               | March 21, 2025      | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ETjqpZAYiDZFl8UZXdHFyzEBYCj0YB1ST_aV_4PawQEt7A?e=TAh9CC), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EYX7dY7hs7dFo6k8gjKkW-gBM36EGZUp1e5_pHBKMOa8Og?e=dK9U5c)    |
   | 7       | Classifiers: Decision Trees                     | March 24, 2025      |  [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EQT3vN55qI9Agb3qgZdGGc8BuDI6WCZFQc3JzXZPakwGrw?e=LGF94Y)   |
 | 8       | Classifier Exercise                               | March 28, 2025      | [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ES9zjP4MAuROv-foMpc1f5gBrL_nzTYkztPf4E6JJWOh2w?e=phhCdO)    |
-| 9       | Clustering                                        | March 31, 2025      |     |
-| 10      | Clustering Exercise                               | April 4, 2025       |     |
-| 11      | Ensemble Methods                                  | April 7, 2025       |     |
-| 12      | Ensemble Methods Exercise                         | April 11, 2025      |     |
-| 13      | Neural Networks                                   | April 14, 2025      |     |
-| 14      | Introduction to PyTorch                           | April 18, 2025      |     |
-| 15      | Neural Networks Exercise                          | April 28, 2025      |     |
-| 16      | CNN: Part 1                                       | May 05, 2025        |     |
-| 17      | CNN Exercise                                      | May 12, 2025        |     |
-| 18      | CNN: Part 2 + XAI                                 | May 16, 2025        |     |
-| 19      | CNN Exercise - Captum                             | May 19, 2025        |     |
-| 20      | Transformers (Foundation Models + Prompting)      | May 23, 2025        |     |
-| 21      | Transformers Exercise                             | May 26, 2025        |     |
+| 9       | Clustering                                        | April 4, 2025       |     |
+| 10      | Clustering Exercise                               | April 7, 2025       |     |
+| 11      | Ensemble Methods                                  | April 11, 2025      |     |
+| 12      | Ensemble Methods Exercise                         | April 14, 2025      |     |
+| 13      | Neural Networks                                   | April 18, 2025      |     |
+| 14      | Introduction to PyTorch                           | April 28, 2025      |     |
+| 15      | Neural Networks Exercise                          | May 05, 2025        |     |
+| 16      | CNN: Part 1                                       | May 12, 2025        |     |
+| 17      | CNN Exercise                                      | May 16, 2025        |     |
+| 18      | CNN: Part 2 + XAI                                 | May 19, 2025        |     |
+| 19      | CNN Exercise - Captum                             | May 23, 2025        |     |
+| 20      | Transformers (Foundation Models + Prompting)      | May 26, 2025        |     |
+| 21      | Transformers Exercise                             | May 30, 2025        |     |
+
