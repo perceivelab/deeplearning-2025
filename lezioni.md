@@ -15,7 +15,7 @@ layout: page
   | 7       | Classifiers: Decision Trees                     | March 24, 2025      |  [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EQT3vN55qI9Agb3qgZdGGc8BuDI6WCZFQc3JzXZPakwGrw?e=LGF94Y)   |
 | 8       | Classifier Exercise                               | March 28, 2025      | [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ES9zjP4MAuROv-foMpc1f5gBrL_nzTYkztPf4E6JJWOh2w?e=phhCdO)    |
 | 9       | Clustering                                        | April 4, 2025       | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaOWMcOZcxdMjWd4GeDfvN8BkB1dVizKB_oubktpEba5jw?e=3kRnT2)    |
-| 10      | Clustering Exercise                               | April 7, 2025       |     |
+| 10      | Clustering Exercise                               | April 7, 2025       | [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXgGIbe6gl5Cql7jWttROksBWpBmiS7knerk8mLq1E8-GQ?e=BEP2Tw)    |
 | 11      | Ensemble Methods                                  | April 11, 2025      |     |
 | 12      | Ensemble Methods Exercise                         | April 14, 2025      |     |
 | 13      | Neural Networks                                   | April 18, 2025      |     |
