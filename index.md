@@ -15,6 +15,7 @@ layout: default
 During the course, Discord will be used as a space to discuss all technical aspects and **for announcements**. Enrollment in the server through the following [link](https://discord.gg/UAVQtQGPBu) is highly recommended.
 
 # ANNOUNCEMENTS
+- 14/04/2025 - Due to the upcoming Easter break, Friday’s class is cancelled. Since we need three hours to complete the topic on ensembles, today’s class is rescheduled to Wednesday from 17:00 to 20:00 in room D22. Please acknowledge reading this message.
 - 24/02/2025 - Classes will start on 05/03/2025.
 
 ---
