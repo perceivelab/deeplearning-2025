@@ -17,7 +17,7 @@ layout: page
 | 9       | Clustering                                        | April 4, 2025       | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaOWMcOZcxdMjWd4GeDfvN8BkB1dVizKB_oubktpEba5jw?e=z01HvR), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESh0Gra4x-BLmXQucXY--gYBeMnOaHGbRpCThoSgQ4ZSCQ?e=k1BCCH)    |
 | 10      | Clustering Exercise                               | April 7, 2025       | [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXgGIbe6gl5Cql7jWttROksBWpBmiS7knerk8mLq1E8-GQ?e=BEP2Tw)    |
 | 11      | Decision trees and Ensemble Methods                                  | April 11, 2025      |  [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/Eb_XLgOHnzxLn1SpiCSx4ogBKHKFPMd7x7VV6WdmrisAiw?e=1uaKg0), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EUIXpuJyw7NAs5sdQDWYm9MBE9GpTh7t25RToDnzeGo6Rg?e=rCuQXz)   |
-| 12      | Ensemble Methods Exercise                         | April 16, 2025      |     |
+| 12      | Ensemble Methods Exercise                         | April 18, 2025      |     |
 | 13      | Introduction to PyTorch                           | April 28, 2025      |     |
 | 14      | Neural Networks                                   | May 05, 2025      |     |
 | 15      | Neural Networks Exercise                          | May 12, 2025        |     |
