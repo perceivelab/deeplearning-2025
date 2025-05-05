@@ -19,7 +19,7 @@ layout: page
 | 11      | Decision trees and Ensemble Methods                                  | April 11, 2025      |  [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/Eb_XLgOHnzxLn1SpiCSx4ogBKHKFPMd7x7VV6WdmrisAiw?e=UPYFhO), [Notes](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EUIXpuJyw7NAs5sdQDWYm9MBE9GpTh7t25RToDnzeGo6Rg?e=rCuQXz)   |
 | 12      | Ensemble Methods Exercise                         | April 18, 2025      |  [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/EeMiT2gPaj1MpirnTOp6csIBIxTxi8-MiLyfufFBBYGBVQ?e=6ecx1Y), [Solution](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/EWdRdRIDq21Dn87ROzpj7lEBYBz80SbycUpU-BivDpqLYw?e=tpYcf2)   |
 | 13      | Introduction to PyTorch                           | April 28, 2025      | [Code](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EfeaeGt0_65JkGz20p12XloBiAPjKBBiVJ0wGxNa2allgA?e=7qie40)    |
-| 14      | Neural Networks                                   | May 05, 2025      |     |
+| 14      | Neural Networks                                   | May 05, 2025      | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EWIVtNDA6xRPjtKacPdJ6IEBJLNdAU4CnF3D9md17HJe5Q?e=5sDQ9D)    |
 | 15      | Neural Networks Exercise                          | May 12, 2025        |     |
 | 16      | CNN: Part 1                                       | May 16, 2025        |     |
 | 17      | CNN Exercise                                      | May 19, 2025        |     |
