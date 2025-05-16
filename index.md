@@ -37,7 +37,7 @@ These two parts can be completed separately on different dates. The grade for ea
 ---
 # PROJECT
 The project can be of two types:
-- **Type 1**: Development of a project proposed by the course instructors: [list of projects](projects)
+- **Type 1**: Development of a project proposed by the course instructors: [list of projects](projects), [project selection form](https://forms.gle/yKtN9KdZCWYDSy176)
 - **Type 2**: Kaggle Challenge on Domain Shift: [challenge link](https://www.kaggle.com/t/1b48e17ac389469da366a004ff88e530)
 
 ---
