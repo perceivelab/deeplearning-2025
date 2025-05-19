@@ -497,7 +497,7 @@ layout: page
 
 ---
 
-## Project 29: Classification Breast Cancer
+## ~~Project 29: Classification Breast Cancer~~
 - **Reference person:** Giovanni Patanè (patane.giovanni@phd.unict.it)
 - **Goal:** To train or fine-tune a deep learning model to classify abnormal areas of tissue (benign vs. malignant) in mammography images.
 - **Dataset:**
@@ -510,7 +510,7 @@ layout: page
 - **Performance evaluation:** Evaluate model performance using appropriate metrics (e.g., AUC for classification, IoU/Dice for segmentation).
 - **Reference papers:**
     - "Transfer Learning and Fine Tuning in Breast Mammogram Abnormalities Classification on CBIS-DDSM Database."
-- **Expected completion time:** 30h-40h
+- **Expected completion time:** 30h-40h~~
 
 ---
 
@@ -568,7 +568,7 @@ layout: page
 
 ---
 
-## Project 33: Few-shot Predictive Maintenance Benchmarking
+## Project 33: ~~Few-shot Predictive Maintenance Benchmarking~~
 - **Reference person:** Simone Palazzo (simone.palazzo@unict.it)
 - **Goal:** To evaluate the effectiveness of different approaches in estimating the Remaining Useful Lifetime (RUL) of a power electronic device, given a few time series samples of a temperature sensor.
 - **Dataset:**
