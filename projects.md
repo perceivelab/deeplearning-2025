@@ -6,7 +6,7 @@ layout: page
 
 ---
 
-## Project 1: Chest Radiograph Pathology Classification
+## ~~Project 1: Chest Radiograph Pathology Classification~~
 - **Reference person:** Raffaele Mineo (raffaele.mineo@unict.it)
 - **Goal:** To develop a model capable of predicting multiple pathologies from chest radiographs.
 - **Dataset:**
@@ -40,7 +40,7 @@ layout: page
 
 ---
 
-## Project 3: Diabetic Retinopathy Detection
+## ~~Project 3: Diabetic Retinopathy Detection~~
 - **Reference person:** Raffaele Mineo (raffaele.mineo@unict.it)
 - **Goal:** To classify fundus images into five severity levels of diabetic retinopathy.
 - **Dataset:**
@@ -272,7 +272,7 @@ layout: page
 - **Can be extended to thesis**
 ---
 
-## Project 17: Detecting Scalp Area from a Single EEG Electrode Signal
+## ~~Project 17: Detecting Scalp Area from a Single EEG Electrode Signal~~
 - **Reference person:** Marco Finocchiaro (finocchiaro.marco@phd.unict.it)
 - **Goal:** To develop a data-driven pipeline capable of detecting specific scalp regions based on the signal captured by a single EEG electrode.
 - **Dataset:**
@@ -323,7 +323,7 @@ layout: page
 
 ---
 
-## Project 20: Continual Learning with registers
+## ~~Project 20: Continual Learning with registers~~
 - **Reference person:** Amelia Sorrenti (amelia.sorrenti@phd.unict.it)
 - **Goal:** To evaluate the impact of using "registers" (as in Vision Transformers) in a class-incremental continual learning setting.
 - **Dataset:**
@@ -380,7 +380,7 @@ layout: page
 
 ---
 
-## Project 23: GenAI to explain CNN
+## ~~Project 23: GenAI to explain CNN~~
 - **Reference person:** Matteo Pennisi (matteo.pennisi@unict.it)
 - **Goal:** To use generative AI (specifically Stable Diffusion) and lexical databases (Core WordNet) to explain the activations of a Convolutional Neural Network (CNN).
 - **Dataset:**
@@ -530,7 +530,7 @@ layout: page
 
 ---
 
-## Project 31: Image Classification from Brain Signals
+## ~~Project 31: Image Classification from Brain Signals~~
 - **Reference person:** Salvatore Calcagno (salvatore.calcagno@unict.it)
 - **Goal:** To determine if it's possible to classify the category of seen objects (e.g., animate vs. inanimate, nature vs. artificial) using only brain signals.
 - **Dataset:**
@@ -568,7 +568,7 @@ layout: page
 
 ---
 
-## Project 33: ~~Few-shot Predictive Maintenance Benchmarking~~
+## ~~Project 33: Few-shot Predictive Maintenance Benchmarking~~
 - **Reference person:** Simone Palazzo (simone.palazzo@unict.it)
 - **Goal:** To evaluate the effectiveness of different approaches in estimating the Remaining Useful Lifetime (RUL) of a power electronic device, given a few time series samples of a temperature sensor.
 - **Dataset:**
