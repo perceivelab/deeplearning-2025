@@ -23,9 +23,9 @@ layout: page
 | 15      | Neural Networks: part 2                           | May 12, 2025        |     |
 | 16      | Neural Networks Exercise                          | May 16, 2025        | [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EdA4g4Ou54lCncYht2vTGa4BrnGezsKvj3p2HY6RdqZhTQ?e=zaU9HW), [Solution](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EQdc48v7mF9DkiI4Japz-NIB4ezDtqLYkKmUnbul2UFDKw?e=SPDxUf)    |
 | 17      | CNN: Part 1                                       | May 19, 2025        |  [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ERqhAWy4oWNFmhtTSo-Ew4wBA--o4-PiXP4TzE2E4XXtkQ?e=OFulc8)   |
-| 18      | CNN Exercise                                      | May 23, 2025        |     |
-| 19      | CNN: Part 2 + XAI                                 | May 26, 2025        |     |
-| 20      | CNN Exercise - Captum                             | May 30, 2025        |     |
+| 18      | CNN  Part 2                                      | May 23, 2025        |     |
+| 19      | CNN Exercise                                     | May 26, 2025        |     |
+| 20      | CNN: XAI and Captum                               | May 30, 2025        |     |
 | 21      | Transformers (Foundation Models + Prompting)      | Jun 6, 2025         |     |
 | 22      | Transformers Exercise                             | Jun 9, 2025         |     |
 
