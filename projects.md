@@ -91,7 +91,7 @@ layout: page
 
 ---
 
-## Project 6: Histopathology Metastasis Detection
+## ~~Project 6: Histopathology Metastasis Detection~~
 - **Reference person:** Raffaele Mineo (raffaele.mineo@unict.it)
 - **Goal:** To classify patches from lymph node histology images for the presence of metastatic tissue.
 - **Dataset:**
@@ -256,7 +256,7 @@ layout: page
 
 ---
 
-## Project 16: Identifying Brain Regions with fMRI
+## ~~Project 16: Identifying Brain Regions with fMRI~~
 - **Reference person:** Marco Finocchiaro (finocchiaro.marco@phd.unict.it)
 - **Goal:** To design a model capable of classifying the brain region to which a 3D voxel-based cube extracted from fMRI signals belongs.
 - **Dataset:**
