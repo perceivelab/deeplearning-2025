@@ -25,7 +25,7 @@ layout: page
 | 17      | CNN: Part 1                                        | May 19, 2025        |  [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ERqhAWy4oWNFmhtTSo-Ew4wBA--o4-PiXP4TzE2E4XXtkQ?e=OFulc8)   |
 | 18      | CNN  Part 2                                        | May 23, 2025        |     |
 | 19      | CNN: Practical class                               | May 26, 2025        |   [Exercise](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/ESdbZAW1LaNLjU2iynmVgwkBwAxV-QgXIUcuHwFrJZKHdA?e=7bkewt),[Solution](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/EVXMecHieFZFtQ1frbTpkFoB7F-CtOngyxI-MtAUqvnh2A?e=nvqKtN) |
-| 20      | CNN: Exercise                                      | May 30, 2025        |     |
+| 20      | CNN: Exercise                                      | May 30, 2025        |  [Data](https://www.kaggle.com/datasets/alessiomasano/cifar10-hw3)   |
 | 21      | CNN: XAI and Captum                                | Jun 9, 2025         |     |
 
 
