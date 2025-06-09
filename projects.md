@@ -74,7 +74,7 @@ layout: page
 
 ---
 
-## Project 5: ECG Arrhythmia Classification
+## ~~Project 5: ECG Arrhythmia Classification~~
 - **Reference person:** Raffaele Mineo (raffaele.mineo@unict.it)
 - **Goal:** To classify 12-lead ECG signals for multi-label arrhythmia detection.
 - **Dataset:**
@@ -236,7 +236,7 @@ layout: page
 
 ---
 
-## Project 15: Federated Subnetwork sharing
+## ~~Project 15: Federated Subnetwork sharing~~
 - **Reference person:** Rutger Hendrix (rutger.hendrix@phd.unict.it)
 - **Goal:** To investigate 'information separation' in multi-input multi-output (MIMO) neural networks for federated learning, aiming to reduce communication costs by selectively sharing high-attribution subnetworks.
 - **Dataset:**
